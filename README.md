@@ -14,4 +14,4 @@ A glowy effect and press down effect when clicked
 
 ## My Understanding
 
-I did more than I was required to do, so that I can have a better understanding of how I can manupulate the same properties but, have a diffrent effect on each button. I now sort of have an understanding of pseudo elements and webkit properties work and I would want to do more research and practices to have further understanding.
+I did more than what was required to gain a better understanding of how to manipulate the same properties while achieving different effects on each button. I now have a basic understanding of how pseudo-elements and @keyframes work. I would like to do more research and keep practicing to deepen my understanding further.
